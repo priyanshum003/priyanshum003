@@ -11,7 +11,7 @@
 
 <h3 align="left">Portfolio:</h3>
 <p align="left">
-  <a href="https://priyanshumishra.tech" target="blank">priyanshumishra.tech</a>
+  <a href="https://priyanshumishra.in" target="blank">priyanshumishra.in</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
